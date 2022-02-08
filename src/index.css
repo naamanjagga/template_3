@@ -1,21 +1,70 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 ul {
-    list-style-type: none;
-    margin: 70px 60px 0 0;
-    padding: 0;
-    overflow: hidden;
+	list-style-type: none;
+	margin: 70px 60px 0 0;
+	padding: 0;
+	overflow: hidden;
 }
 .list {
-    padding: 10px;
-    float: right;
-    display: inline;
-    text-align: center;
+	padding: 10px;
+	float: right;
+	display: inline;
+	text-align: center;
 }
 .main_heading {
-    margin: 2% 6% 6% 12%;
-    font-size: 30px;
+	margin: 2% 6% 2% 12%;
+	font-size: 30px;
+}
+/*header part ends her*/
+/*middle part starts here*/
+.big_box {
+	margin: 0 5% 2% 5%;
+	background-color: lightgray;
+	width: 90%;
+}
+.second_heading {
+	padding-top: 4%;
+	padding-left: 3%;
+}
+.para_1 {
+	padding-top: 2%;
+	padding-left: 3%;
+}
+.button_1 {
+	margin-top: 2%;
+	margin-left: 3%;
+	margin-bottom: 4%;
+	padding: 0 1%;
+}
+.main_div {
+	margin: 0 5% 2% 5%;
+	width: 90%;
+}
+.first_div {
+    float: left;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 27%;
+	text-align: center;
+}
+.para_2 {
+	color: lightgray;
+	background-color: lightgray;
+	padding: 15% 2% 15% 2%;
+}
+.para_3 {
+    margin: 4% 0;
+
+}
+.third_heading {
+    margin-top: 3%;
+    font-size: 25px;
+}
+.tag_1 {
+    padding-bottom: 5%;
+    color: black;
 }
