@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    list-style-type: none;
+    margin: 70px 60px 0 0;
+    padding: 0;
+    overflow: hidden;
+}
+.list {
+    padding: 10px;
+    float: right;
+    display: inline;
+    text-align: center;
+}
+.main_heading {
+    margin: 2% 6% 6% 12%;
+    font-size: 30px;
+}
